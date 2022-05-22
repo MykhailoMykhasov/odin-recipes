@@ -1,0 +1,64 @@
+
+
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    text-align: center;
+    color: antiquewhite;
+}
+
+body {
+    font-size: xx-large;
+    
+
+}
+
+ul {
+    background-color: grey;
+    color: black;
+   
+}
+
+ img {
+    height: auto;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+ }
+
+ h2 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    text-align: center;
+    color: antiquewhite;
+ }
+
+ h3 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    text-align: center;
+    color: antiquewhite;
+ }
+ div {
+     text-align: center;
+ }
+
+ 
+html {
+    color: yellow;
+    background-color: darkblue;
+    font-size: 50px;
+}
+p {
+    font-size: 50px;
+}
+
+ol {
+    font-size: 50px;
+}
+
+a {
+    color: yellow;
+}
